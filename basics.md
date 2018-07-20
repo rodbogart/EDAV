@@ -4,8 +4,6 @@
 
 
 
-It's working!!!
-
 So...there is soooo much to the world of R. Textbooks, cheatsheets, exercises, and other buzzwords full of resources you could go through. There are over 12700 packages on [CRAN](https://cran.r-project.org){target="_blank"}, the network through which R code and packages are distributed. It can be overwhelming.  However, bear in mind that R is being used for a lot of different things, not all of which are relevant to EDAV. 
 
 To help you navigate the landscape, here we provide a collection of resources that you should be familiar with in the context of this course. This is not to say that any of these resources are prerequisites, but they will come up in the course and we want to give you places to learn about them.
@@ -23,7 +21,7 @@ Okay, then. Here are the essentials, in checklist form:
 3. **Try something!**: Getting comfortable with an IDE is all about practice. So while the DataCamp vids are great, don't solely rely on them. Try things out for yourself! Here are some things to play around with:
     - Create an R Script file, paste in `print("Hello, World!")`, and run it
     - Create an R Markdown file and have it generate an HTML page
-    - Download a package like `tidyverse` or `MASS`
+    - Download packages like `tidyverse` or `MASS`
     - Do some math in the console
 4. **Learn how to get help**: Make sure you are comfortable searching for answers when you get stuck. See the above section on [getting help](#getting-help) for some...help.
 5. **Get the Textbook**: This course uses *Graphical Data Analysis with R* as its textbook. Here is an [Amazon Link for a physical copy](https://www.amazon.com/Graphical-Data-Analysis-Chapman-Hall/dp/1498715230){target="_blank"} and a link to the [book's website](http://www.gradaanwr.net/){target="_blank"}. 
